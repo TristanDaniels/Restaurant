@@ -1,0 +1,50 @@
+* {
+  font-family: "Outfit", "sans-serif";
+  scroll-behavior: smooth;
+}
+.problem {
+  background: url(Restaurant\ 1.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.layer {
+  background-color: black;
+  opacity: 0.9;
+}
+#home {
+  background: url(Restaurant\ 2.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.container h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+}
+.container h1 span {
+  font-family: "Poppins", sans-serif;
+  color: #cda45e;
+}
+.container h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 22px;
+}
+.information {
+  display: flex;
+  flex-direction: column;
+}
+.about-container h2 {
+  font-weight: 600;
+  font-size: 26px;
+}
