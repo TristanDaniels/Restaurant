@@ -10,7 +10,7 @@
 }
 .layer {
   background-color: black;
-  opacity: 0.9;
+  opacity: 1;
 }
 #home {
   background: url(Restaurant\ 2.jpg);
@@ -47,4 +47,14 @@
 .about-container h2 {
   font-weight: 600;
   font-size: 26px;
+}
+.why-us-container {
+  background-color: black;
+  opacity: 1;
+}
+.why-us-heading {
+  font-size: 36px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  color: #cda45e;
 }
